@@ -1,0 +1,5 @@
+server:
+  context-path: /
+
+profile: application-config-server-default
+
